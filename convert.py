@@ -30,4 +30,3 @@ for child in toRemove:
     root.remove(child)
 
 tree.write('entities_converted.xml')
-
